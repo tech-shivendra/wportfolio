@@ -15,7 +15,7 @@ const portfolio = {
       'https://www.linkedin.com/in/shivendra-pratap-singh-998b772a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
     email: 'mailto:techshivendraa@gmail.com',
     github: 'https://github.com/tech-shivendra',
-    instagram: 'https://www.instagram.com/shivendra.exe?igsh=MTc2ajZlN2JjbTZhNQ=='
+    instagram: 'https://www.instagram.com/shivendra.journal?igsh=MTc2ajZlN2JjbTZhNQ=='
   },
   codingProfiles: {
     github: {
